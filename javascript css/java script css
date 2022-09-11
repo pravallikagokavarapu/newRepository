@@ -1,0 +1,8 @@
+<html>
+  <h1> welcome to html web page</h1>
+  welcome to html web page
+  <script type="text/javascript">
+    document.write("welcome to javascript program")
+  </script>
+  </body>
+  </html>
